@@ -95,9 +95,6 @@ int main( int argc, char *argv[ ] ) {
 
 	return 0;
 
-
-
-    
     int i = 0;
     int HIT = 0;
     int TotalMisses = 0;
@@ -107,7 +104,7 @@ int main( int argc, char *argv[ ] ) {
 
     for (i = 0; i < assoc; i++) {
 
-        if (LinhaCache[Indice][i].BitValidade == 1 && LinhaCache[Indice][i].Tag == Tag) {
+        if (LinhaCache[indice][i].BitValidade == 1 && LinhaCache[Indice][i].Tag == Tag) {
 
             HIT = 1;
             break;

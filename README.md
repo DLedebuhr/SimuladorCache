@@ -9,4 +9,9 @@ Tempo em Call
  iniciou uma chamada. — 16:44 - 20:18
 
 
+19.06
+
+Dyy
+ iniciou uma chamada. — 18:05 - 22:27
+
  
